@@ -15,7 +15,7 @@ import 'package:netcart_flutter/view/Screens/splash/splash_screen.dart';
 
 void main (){
   runApp(MaterialApp(
-    home: ExploreScreen(),
+    home: SplashScreen(),
   )
 
 );
